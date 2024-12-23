@@ -1,4 +1,4 @@
-# Data Warehousing Final Project
+# Financial Transactions Analytics Platform(Data Warehousing)
 
 ## **Project Title**
 **Financial Transactions Analytics Platform**
